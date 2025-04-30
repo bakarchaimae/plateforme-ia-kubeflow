@@ -1,0 +1,15 @@
+{
+  "target_column": "target",
+  "features": [
+    "sepal length (cm)",
+    "sepal width (cm)",
+    "petal length (cm)",
+    "petal width (cm)"
+  ],
+  "shape_original": [
+    150,
+    5
+  ],
+  "train_samples": 105,
+  "test_samples": 45
+}
